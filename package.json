@@ -1,0 +1,18 @@
+{
+  "name": "botkairus",
+  "version": "1.0.0",
+  "description": "Simple bot integration with a model IA 'chat gpt'",
+  "main": "index.js",
+  "scripts": {
+    "startbot": "tsc index.ts && node index.js"
+  },
+  "author": "Ykarus",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "discord.js": "^14.16.3",
+    "mongodb": "^6.12.0",
+    "openai": "^4.77.0"
+  }
+}
