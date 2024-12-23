@@ -2,21 +2,6 @@
 const fs = require('fs');
 const path = require('path')
 
-// export function getPlurallAuthorization1()
-// {
-//     return "a9f8fa3f3e87ba951dee81e8654e8a01";
-// }
-// export function getPlurallAuthorization2()
-// {
-//     return "879acc67abf178e23f63fea6f6a6ac15";
-// }
-
-// export function getApplicationId()
-// {
-//     return "NWRmYzNlOTRkNGQyM2Nm";
-// }
-
-
 class AuthManager {
 
     async read_file()
