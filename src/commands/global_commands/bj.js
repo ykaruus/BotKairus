@@ -1,5 +1,5 @@
 const { SlashCommandBuilder, EmbedBuilder, ButtonBuilder, ActionRowBuilder, ButtonStyle, time } = require("discord.js");
-const { BjManager } = require("../../utils/blackjack/BjManager")
+const { BjManager } = require("../../cardsGameService/blackjack/BjManager")
 
 
 
