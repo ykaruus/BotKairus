@@ -1,18 +1,26 @@
-# 🤖 Bot Kairus - Seu Assistente no Discord
-Kairus é um bot do Discord desenvolvido com discord.js, criado para facilitar a vida dos estudantes ao integrar-se à API do Plurall. Ele permite que os alunos visualizem e obtenham suas atividades diretamente pelo Discord. Além disso, o bot Kairus inclui comandos divertidos para tornar a interação mais agradável.
+# Playing cards asset pack
 
-## Funcionalidades Principais
-- 📚 Integração com API do Plurall: Acesso fácil e rápido às atividades escolares dos alunos da plataforma Plurall. Visualize e gerencie suas tarefas sem sair do Discord.
+This is a free asset pack made by Victor MEUNIER. You can use this for personnal and commercial projects. 
+If you can, please credit me.
 
-- 🔒 Sistema de Gerenciamento de Auths: Permite que cada usuário tenha suas credenciais de autenticação bem definidas, tornando as requisições únicas e bem separadas.
+<!-- LICENSE -->
+## License
 
-- 🎉 Comandos Divertidos: Uma coleção de comandos para entretenimento, garantindo que o uso do bot seja tanto funcional quanto divertido.
+Distributed under the [CC0 license](http://creativecommons.org/publicdomain/zero/1.0/). See [LICENCE](LICENCE) for more information.
 
-Comandos Disponíveis
-- `/getactivities`: Obtenha uma lista detalhada das suas atividades diretamente do Plurall.
+<!-- CONTACT -->
+## Contact
 
-- `/getactivity`: Obtenha informações sobre uma atividade específica.
+Victor MEUNIER - victormeunier.dev@gmail.com
 
-- `/getmysubid`: Recupere o seu ID de inscrição.
+- [Website](https://www.victormeunier.com)
+- [Blog](https://blog.victormeunier.com)
+- [@VicMeunier](https://twitter.com/VicMeunier)
+- [Itch.io](https://mreliptik.itch.io/)
+- [Sketchfab](https://sketchfab.com/mreliptik)
 
-- `/getcredential`: Obtenha suas credenciais de autenticação.
+
+You like my work and want to support me? 
+
+<a href="https://www.buymeacoffee.com/mreliptik" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+

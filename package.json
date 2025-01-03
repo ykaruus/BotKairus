@@ -4,7 +4,8 @@
   "description": "Simple bot integration with a model IA 'chat gpt'",
   "main": "index.js",
   "scripts": {
-    "startbot": "tsc index.ts && node index.js"
+    "test": "node src/index.js",
+    "update_global_commands": "node src/refreshGlobalCommands.js"
   },
   "author": "Ykarus",
   "license": "ISC",
