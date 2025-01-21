@@ -1,0 +1,314 @@
+[
+    {
+        "emoji_suit": "cardClubs",
+        "emoji_id": "1323127984131145729",
+        "emoji": "<:cardClubs_10:1323127984131145729>",
+        "value": 10
+    },
+    {
+        "emoji_suit": "cardClubs",
+        "emoji_id": "1323127986169577534",
+        "emoji": "<:cardClubs_2:1323127986169577534>",
+        "value": 2
+    },
+    {
+        "emoji_suit": "cardClubs",
+        "emoji_id": "1323127987335467052",
+        "emoji": "<:cardClubs_3:1323127987335467052>",
+        "value": 3
+    },
+    {
+        "emoji_suit": "cardClubs",
+        "emoji_id": "1323127989285683215",
+        "emoji": "<:cardClubs_4:1323127989285683215>",
+        "value": 4
+    },
+    {
+        "emoji_suit": "cardClubs",
+        "emoji_id": "1323127991051751466",
+        "emoji": "<:cardClubs_5:1323127991051751466>",
+        "value": 5
+    },
+    {
+        "emoji_suit": "cardClubs",
+        "emoji_id": "1323127992511369237",
+        "emoji": "<:cardClubs_6:1323127992511369237>",
+        "value": 6
+    },
+    {
+        "emoji_suit": "cardClubs",
+        "emoji_id": "1323127994071384115",
+        "emoji": "<:cardClubs_7:1323127994071384115>",
+        "value": 7
+    },
+    {
+        "emoji_suit": "cardClubs",
+        "emoji_id": "1323127995887648839",
+        "emoji": "<:cardClubs_8:1323127995887648839>",
+        "value": 8
+    },
+    {
+        "emoji_suit": "cardClubs",
+        "emoji_id": "1323127997133230197",
+        "emoji": "<:cardClubs_9:1323127997133230197>",
+        "value": 9
+    },
+    {
+        "emoji_suit": "cardClubs",
+        "emoji_id": "1323127999041769474",
+        "emoji": "<:cardClubs_A:1323127999041769474>",
+        "value": 11
+    },
+    {
+        "emoji_suit": "cardClubs",
+        "emoji_id": "1323128000606371904",
+        "emoji": "<:cardClubs_J:1323128000606371904>",
+        "value": 10
+    },
+    {
+        "emoji_suit": "cardClubs",
+        "emoji_id": "1323128002934079632",
+        "emoji": "<:cardClubs_K:1323128002934079632>",
+        "value": 10
+    },
+    {
+        "emoji_suit": "cardClubs",
+        "emoji_id": "1323128004536172666",
+        "emoji": "<:cardClubs_Q:1323128004536172666>",
+        "value": 10
+    },
+    {
+        "emoji_suit": "cardDiamonds",
+        "emoji_id": "1323128005748592803",
+        "emoji": "<:cardDiamonds_10:1323128005748592803>",
+        "value": 10
+    },
+    {
+        "emoji_suit": "cardDiamonds",
+        "emoji_id": "1323128007522521190",
+        "emoji": "<:cardDiamonds_2:1323128007522521190>",
+        "value": 2
+    },
+    {
+        "emoji_suit": "cardDiamonds",
+        "emoji_id": "1323128009053442150",
+        "emoji": "<:cardDiamonds_3:1323128009053442150>",
+        "value": 3
+    },
+    {
+        "emoji_suit": "cardDiamonds",
+        "emoji_id": "1323128010215260234",
+        "emoji": "<:cardDiamonds_4:1323128010215260234>",
+        "value": 4
+    },
+    {
+        "emoji_suit": "cardDiamonds",
+        "emoji_id": "1323128012102828032",
+        "emoji": "<:cardDiamonds_5:1323128012102828032>",
+        "value": 5
+    },
+    {
+        "emoji_suit": "cardDiamonds",
+        "emoji_id": "1323128013176701060",
+        "emoji": "<:cardDiamonds_6:1323128013176701060>",
+        "value": 6
+    },
+    {
+        "emoji_suit": "cardDiamonds",
+        "emoji_id": "1323128015676243968",
+        "emoji": "<:cardDiamonds_7:1323128015676243968>",
+        "value": 7
+    },
+    {
+        "emoji_suit": "cardDiamonds",
+        "emoji_id": "1323128016984866916",
+        "emoji": "<:cardDiamonds_8:1323128016984866916>",
+        "value": 8
+    },
+    {
+        "emoji_suit": "cardDiamonds",
+        "emoji_id": "1323128018230841447",
+        "emoji": "<:cardDiamonds_9:1323128018230841447>",
+        "value": 9
+    },
+    {
+        "emoji_suit": "cardDiamonds",
+        "emoji_id": "1323128020042514496",
+        "emoji": "<:cardDiamonds_A:1323128020042514496>",
+        "value": 11
+    },
+    {
+        "emoji_suit": "cardDiamonds",
+        "emoji_id": "1323128021514981496",
+        "emoji": "<:cardDiamonds_J:1323128021514981496>",
+        "value": 10
+    },
+    {
+        "emoji_suit": "cardDiamonds",
+        "emoji_id": "1323128023008022632",
+        "emoji": "<:cardDiamonds_K:1323128023008022632>",
+        "value": 10
+    },
+    {
+        "emoji_suit": "cardDiamonds",
+        "emoji_id": "1323128024576688149",
+        "emoji": "<:cardDiamonds_Q:1323128024576688149>",
+        "value": 10
+    },
+    {
+        "emoji_suit": "cardHearts",
+        "emoji_id": "1323128026107609149",
+        "emoji": "<:cardHearts_10:1323128026107609149>",
+        "value": 10
+    },
+    {
+        "emoji_suit": "cardHearts",
+        "emoji_id": "1323128027923746837",
+        "emoji": "<:cardHearts_2:1323128027923746837>",
+        "value": 2
+    },
+    {
+        "emoji_suit": "cardHearts",
+        "emoji_id": "1323128029303541893",
+        "emoji": "<:cardHearts_3:1323128029303541893>",
+        "value": 3
+    },
+    {
+        "emoji_suit": "cardHearts",
+        "emoji_id": "1323128030771810397",
+        "emoji": "<:cardHearts_4:1323128030771810397>",
+        "value": 4
+    },
+    {
+        "emoji_suit": "cardHearts",
+        "emoji_id": "1323128032503795825",
+        "emoji": "<:cardHearts_5:1323128032503795825>",
+        "value": 5
+    },
+    {
+        "emoji_suit": "cardHearts",
+        "emoji_id": "1323128034315993109",
+        "emoji": "<:cardHearts_6:1323128034315993109>",
+        "value": 6
+    },
+    {
+        "emoji_suit": "cardHearts",
+        "emoji_id": "1323128035943125003",
+        "emoji": "<:cardHearts_7:1323128035943125003>",
+        "value": 7
+    },
+    {
+        "emoji_suit": "cardHearts",
+        "emoji_id": "1323128037390159969",
+        "emoji": "<:cardHearts_8:1323128037390159969>",
+        "value": 8
+    },
+    {
+        "emoji_suit": "cardHearts",
+        "emoji_id": "1323128039038652467",
+        "emoji": "<:cardHearts_9:1323128039038652467>",
+        "value": 9
+    },
+    {
+        "emoji_suit": "cardHearts",
+        "emoji_id": "1323128040292876289",
+        "emoji": "<:cardHearts_A:1323128040292876289>",
+        "value": 11
+    },
+    {
+        "emoji_suit": "cardHearts",
+        "emoji_id": "1323128041970335850",
+        "emoji": "<:cardHearts_J:1323128041970335850>",
+        "value": 10
+    },
+    {
+        "emoji_suit": "cardHearts",
+        "emoji_id": "1323128043702718515",
+        "emoji": "<:cardHearts_K:1323128043702718515>",
+        "value": 10
+    },
+    {
+        "emoji_suit": "cardHearts",
+        "emoji_id": "1323128045321719889",
+        "emoji": "<:cardHearts_Q:1323128045321719889>",
+        "value": 10
+    },
+    {
+        "emoji_suit": "cardSpades",
+        "emoji_id": "1323128046697447434",
+        "emoji": "<:cardSpades_10:1323128046697447434>",
+        "value": 10
+    },
+    {
+        "emoji_suit": "cardSpades",
+        "emoji_id": "1323128048073048115",
+        "emoji": "<:cardSpades_2:1323128048073048115>",
+        "value": 2
+    },
+    {
+        "emoji_suit": "cardSpades",
+        "emoji_id": "1323128049587191831",
+        "emoji": "<:cardSpades_3:1323128049587191831>",
+        "value": 3
+    },
+    {
+        "emoji_suit": "cardSpades",
+        "emoji_id": "1323128052733055040",
+        "emoji": "<:cardSpades_4:1323128052733055040>",
+        "value": 4
+    },
+    {
+        "emoji_suit": "cardSpades",
+        "emoji_id": "1323128054645657602",
+        "emoji": "<:cardSpades_5:1323128054645657602>",
+        "value": 5
+    },
+    {
+        "emoji_suit": "cardSpades",
+        "emoji_id": "1323128056155734026",
+        "emoji": "<:cardSpades_6:1323128056155734026>",
+        "value": 6
+    },
+    {
+        "emoji_suit": "cardSpades",
+        "emoji_id": "1323128057501978707",
+        "emoji": "<:cardSpades_7:1323128057501978707>",
+        "value": 7
+    },
+    {
+        "emoji_suit": "cardSpades",
+        "emoji_id": "1323138947144089680",
+        "emoji": "<:cardSpades_A:1323138947144089680>",
+        "value": 11
+    },
+    {
+        "emoji_suit": "cardSpades",
+        "emoji_id": "1323139014869389312",
+        "emoji": "<:cardSpades_K:1323139014869389312>",
+        "value": 10
+    },
+    {
+        "emoji_suit": "cardSpades",
+        "emoji_id": "1323139112076578938",
+        "emoji": "<:cardSpades_Q:1323139112076578938>",
+        "value": 10
+    },
+    {
+        "emoji_suit": "cardSpades",
+        "emoji_id": "1323139265701482516",
+        "emoji": "<:cardSpades_8:1323139265701482516>",
+        "value": 8
+    },
+    {
+        "emoji_suit": "cardSpades",
+        "emoji_id": "1323139700676104264",
+        "emoji": "<:cardSpades_J:1323139700676104264>",
+        "value": 10
+    },
+    {
+        "emoji_suit": "cardSpades",
+        "emoji_id": "1323139738156138600",
+        "emoji": "<:cardSpades_9:1323139738156138600>",
+        "value": 9
+    }
+]
