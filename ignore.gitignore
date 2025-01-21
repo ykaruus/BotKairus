@@ -1,0 +1,8 @@
+# Ignorar a pasta secret
+secret/
+
+# Ignorar a pasta dist
+dist/
+
+# Ignorar a pasta node_modules
+node_modules/
